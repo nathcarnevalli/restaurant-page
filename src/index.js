@@ -1,1 +1,3 @@
-console.log("Hello World!");
+import initWebsite from './pages/website'
+
+initWebsite()
